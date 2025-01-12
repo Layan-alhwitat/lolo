@@ -1,0 +1,105 @@
+body{background:url('forest.jpg') no-repeat fixed ;}
+
+ .ra{color:black;
+    width:700px;
+    height:500px;
+    font-size:60px;
+    background-position:50% 80%;/**we should make it to have a good look**/
+    background-repeat:no-repeat;
+    background-image:url('love.jpg');
+    background-color:cadetblue;
+    background-attachment:scroll;
+    }
+
+
+
+p#store{color:blue;
+   font-size:25px}
+
+div#store{background-color:lightcoral;
+width:700px;
+height:500px ;
+}
+
+h1#store,h2#store,h3#store{font-size:45px;}
+
+
+
+
+.do{ background-color:firebrick;
+   max-height:500px;
+   width:550px;
+   margin:15% auto;
+   border:solid white 10px;
+   padding:8%;
+   border-radius:20% 5%;
+}
+
+
+.do #dina {color:white;}
+
+
+
+div > p > strong{color:white}
+
+h1#hamzah{margin:5% auto 10% auto;
+           border-bottom:solid white 3px;
+            color:white;
+            width:200px; }
+  
+audio{margin-top:15%}
+
+
+.naghom{width:max-content;
+background-color:azure;}
+
+
+
+.width{background-color:darkblue;
+        min-width:800px;
+        max-width:500px;
+        margin:auto;
+       min-height:500px;
+       border-radius:20%;
+       border:solid whitesmoke 7px;
+      
+      }
+
+
+
+
+
+
+
+
+
+    .width > .paragraph {padding:30% 5% 30% 5%;
+      font-size:25px}
+
+.nn{    width:400px;
+       height:500px;
+       background:purple;
+       margin:20% auto 20% auto;
+       border-radius:30%;
+       border:solid rgb(0, 0, 0) 7px;
+       
+
+        
+}
+
+.nl{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size:35px;
+   margin:34% 15% 10% 25%;
+   width:fit-content;  
+   border-bottom:solid black 5px;
+}
+
+
+.nly { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size:19px;
+       margin:5% 20% 2% 20%;
+
+
+
+
+}
