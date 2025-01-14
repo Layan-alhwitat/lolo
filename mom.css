@@ -27,7 +27,7 @@ h1#store,h2#store,h3#store{font-size:45px;}
 
 
 .do{ background-color:firebrick;
-   max-height:500px;
+   height:500px;
    width:550px;
    margin:15% auto;
    border:solid white 10px;
