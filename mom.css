@@ -1,4 +1,4 @@
-body{background:url('forest.jpg') no-repeat fixed ;}
+body{background:url('forest.jpg') no-repeat fixed cover;}
 
  .ra{color:black;
     width:700px;
@@ -145,5 +145,6 @@ a{
  #t-transform{
    text-transform:uppercase;
    font-size:3em;
+   font-weight:bold;
 
  }
