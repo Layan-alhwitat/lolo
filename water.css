@@ -1,5 +1,5 @@
 h1{
-    color:crimson
+    color:darkgreen
 }
 body{
     background-color:cadetblue
@@ -13,4 +13,19 @@ p{
     font-size:35px;
 background-color:darksalmon;
 border-radius:5%;
+}
+div{
+    font-size:30px;
+    color:darkslategray;
+    width:300px;
+    height:100px;
+    border-radius:30%;
+    background-color:rgba(5, 152, 184, 0.923);
+    border:darkblue solid 4px;
+    
+}
+h2{
+    margin-top:25px;
+    margin-left:30px;
+    margin-right:auto;
 }
