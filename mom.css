@@ -1,0 +1,157 @@
+body{background:no-repeat url('forest.jpg')  fixed ;
+     background-position:center ;
+     background-size:cover;
+     height:100%;
+     width:100%;
+     min-height:100%
+     }
+
+ .ra{color:black;
+    width:700px;
+    height:500px;
+    font-size:60px;
+    background-position:50% 80%;/**we should make it to have a good look**/
+    background-repeat:no-repeat;
+    background-image:url('love.jpg');
+    background-color:cadetblue;
+    background-attachment:scroll;
+    }
+
+
+
+p#store{color:blue;
+   font-size:25px}
+
+div#store{background-color:lightcoral;
+width:700px;
+height:500px ;
+}
+
+h1#store,h2#store,h3#store{font-size:45px;}
+
+
+
+
+.do{ background-color:firebrick;
+   height:500px;
+   width:550px;
+   margin:15% auto;
+   border:solid white 10px;
+   padding:8%;
+   border-radius:20% 5%;
+}
+
+
+.do #dina {color:white;}
+
+
+
+div > p > strong{color:white}
+
+h1#hamzah{margin:5% auto 10% auto;
+           border-bottom:solid white 3px;
+            color:white;
+            width:200px; }
+  
+audio{margin-top:15%}
+
+
+.naghom{width:max-content;
+background-color:azure;}
+
+
+
+.width{background-color:darkblue;
+        min-width:800px;
+        max-width:500px;
+        margin:auto;
+       min-height:500px;
+       border-radius:20%;
+       border:solid whitesmoke 7px;
+       box-shadow:5px 5px 30px 20px rgb(179, 173, 230) inset;
+      }
+
+
+
+
+
+
+
+
+
+    .width > .paragraph {padding:30% 5% 30% 5%;
+      font-size:25px;
+      color:whitesmoke;
+    }
+
+.nn{    width:400px;
+       height:400px;
+       background:purple;
+       margin:20% auto 20% auto;
+       border-radius:45%;
+       border:solid rgb(0, 0, 0) 7px;
+        
+
+      
+
+        
+}
+
+.nl{font-size:35px;
+   margin:20% 15% 10% 25%;
+   width:fit-content;  
+   border-bottom:solid black 5px;
+   text-shadow:20px 15px 17px grey;
+}
+
+
+ 
+
+.nly { font-size:19px;
+      margin:10% 15% 20% 15%;
+      line-height:25px;
+}
+#majd{ background:palevioletred;
+   text-align:center;
+   font-size:40px;
+   width:50%;
+   text-transform:capitalize;
+   word-spacing: 17px;
+   text-decoration:underline wavy darkblue
+
+
+}
+#leen{background-color: whitesmoke;
+   direction:rtl;
+
+}
+
+
+a{
+   text-decoration:none;
+}
+
+
+#wrapping{ 
+    max-width:100px;
+    word-wrap:break-word;
+    background:green;
+    min-height:500px;
+}
+.mystery-quest-regular {
+   font-family: "Mystery Quest", serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+ *{
+   font-family: "Mystery Quest", serif;
+ }
+ #f-variant{
+   font-variant:small-caps;
+   font-size:3em; 
+}
+ #t-transform{
+   text-transform:uppercase;
+   font-size:3em;
+   ;
+ }
